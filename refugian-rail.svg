@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="414.08131"
-     inkscape:cy="387.14787"
+     inkscape:zoom="2.8"
+     inkscape:cx="274.17055"
+     inkscape:cy="393.29043"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-global="true"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
@@ -72,6 +72,19 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(63.163979,62.803509)">
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0"
+       d="M 630.35716,542.4514 C 509.80383,441.48936 506.0125,435.62215 471.73539,404.92631 l -290.30682,91.45367"
+       id="path5262"
+       inkscape:connector-curvature="0"
+       transform="translate(-63.163979,-62.803509)"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0"
+       d="M 470.98361,203.07648 42.730809,549.29077"
+       id="path5327"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 471.73539,604.09428 c 8.70844,-33.0695 24.36271,-81.62016 0,-152.32336 0,-45.75354 27.19088,-59.55317 0,-137.26062 -15.64449,-44.70961 19.13988,-58.35958 42.14287,-48.63031 83.71553,35.40805 101.94024,-0.58805 119.01175,-0.4618 C 602.26678,148.11347 544.51102,37.668337 477.32652,5.499999"
@@ -919,135 +932,132 @@
          y="76.024826"
          style="font-size:10px"
          id="tspan5062">Outpost</tspan></text>
-    <g
-       id="g5141">
-      <text
-         sodipodi:linespacing="125%"
-         id="text3833-0-7-3"
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="129.78572"
+       y="186.43362"
+       id="text3833-0-7-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="129.78572"
          y="186.43362"
+         style="font-size:10px"
+         id="tspan4382-9">Stations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="129.78572"
+       y="206.43362"
+       id="text3833-0-7-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
          x="129.78572"
-         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           id="tspan4382-9"
-           style="font-size:10px"
-           y="186.43362"
-           x="129.78572"
-           sodipodi:role="line">Stations</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3833-0-7-3-9"
          y="206.43362"
+         style="font-size:10px"
+         id="tspan4382-9-5">Junctions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="129.78572"
+       y="226.43364"
+       id="text3833-0-7-3-9-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
          x="129.78572"
-         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           id="tspan4382-9-5"
-           style="font-size:10px"
-           y="206.43362"
-           x="129.78572"
-           sodipodi:role="line">Junctions</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3833-0-7-3-9-6"
          y="226.43364"
+         style="font-size:10px"
+         id="tspan4382-9-5-8">Rail</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3925-7-5-4"
+       width="10"
+       height="10"
+       x="114.83902"
+       y="176.43362" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3783-5-0"
+       sodipodi:cx="95.714287"
+       sodipodi:cy="202.36218"
+       sodipodi:rx="8.5714283"
+       sodipodi:ry="8.5714283"
+       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       transform="matrix(0.58955223,0,0,0.58955223,63.410451,82.130559)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.78572,221.43363 10,0"
+       id="path4677"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff6600;stroke:#aa4400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3783-4-0"
+       sodipodi:cx="95.714287"
+       sodipodi:cy="202.36218"
+       sodipodi:rx="8.5714283"
+       sodipodi:ry="8.5714283"
+       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       transform="matrix(0.58955223,0,0,0.58955223,43.357146,82.130581)" />
+    <rect
+       style="fill:#00ffff;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3925-0-6-6-9"
+       width="10"
+       height="10"
+       x="94.785721"
+       y="176.43365" />
+    <path
+       style="fill:none;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.732413,221.43365 9.999997,0"
+       id="path4677-9"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#999999;stroke-width:1.08012331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4718"
+       width="16"
+       height="69.999977"
+       x="91.732414"
+       y="171.43365" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="91.571426"
+       y="277.50507"
+       id="text3833-0-7-3-9-6-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="91.571426"
+         y="277.50507"
+         style="font-size:6px;font-style:italic;-inkscape-font-specification:Sans Italic"
+         id="tspan4927">Extensions</tspan><tspan
+         sodipodi:role="line"
+         x="91.571426"
+         y="285.00507"
+         style="font-size:6px;font-style:italic;-inkscape-font-specification:Sans Italic"
+         id="tspan4931">(Unfinished, Planned </tspan><tspan
+         sodipodi:role="line"
+         x="91.571426"
+         y="292.50507"
+         style="font-size:6px;font-style:italic;-inkscape-font-specification:Sans Italic"
+         id="tspan4933">or Possible)</tspan></text>
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.78571,236.43363 10,0"
+       id="path4677-1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="129.78572"
+       y="241.43362"
+       id="text3833-0-7-3-9-6-30"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
          x="129.78572"
-         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           id="tspan4382-9-5-8"
-           style="font-size:10px"
-           y="226.43364"
-           x="129.78572"
-           sodipodi:role="line">Rail</tspan></text>
-      <rect
-         y="176.43362"
-         x="114.83902"
-         height="10"
-         width="10"
-         id="rect3925-7-5-4"
-         style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         transform="matrix(0.58955223,0,0,0.58955223,63.410451,82.130559)"
-         d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
-         sodipodi:ry="8.5714283"
-         sodipodi:rx="8.5714283"
-         sodipodi:cy="202.36218"
-         sodipodi:cx="95.714287"
-         id="path3783-5-0"
-         style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="arc" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4677"
-         d="m 114.78572,221.43363 10,0"
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         transform="matrix(0.58955223,0,0,0.58955223,43.357146,82.130581)"
-         d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
-         sodipodi:ry="8.5714283"
-         sodipodi:rx="8.5714283"
-         sodipodi:cy="202.36218"
-         sodipodi:cx="95.714287"
-         id="path3783-4-0"
-         style="fill:#ff6600;stroke:#aa4400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="arc" />
-      <rect
-         y="176.43365"
-         x="94.785721"
-         height="10"
-         width="10"
-         id="rect3925-0-6-6-9"
-         style="fill:#00ffff;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4677-9"
-         d="m 94.732413,221.43365 9.999997,0"
-         style="fill:none;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <rect
-         y="171.43365"
-         x="91.732414"
-         height="69.999977"
-         width="16"
-         id="rect4718"
-         style="fill:none;stroke:#999999;stroke-width:1.08012331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3833-0-7-3-9-6-3"
-         y="251.43362"
-         x="89.785713"
-         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           id="tspan4927"
-           style="font-size:6px;font-style:italic;-inkscape-font-specification:Sans Italic"
-           y="251.43362"
-           x="89.785713"
-           sodipodi:role="line">Extensions</tspan><tspan
-           id="tspan4931"
-           style="font-size:6px;font-style:italic;-inkscape-font-specification:Sans Italic"
-           y="258.93362"
-           x="89.785713"
-           sodipodi:role="line">(Unfinished, Planned </tspan><tspan
-           id="tspan4933"
-           style="font-size:6px;font-style:italic;-inkscape-font-specification:Sans Italic"
-           y="266.43362"
-           x="89.785713"
-           sodipodi:role="line">or Possible)</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path4677-1"
-         d="m 114.78571,236.43363 10,0"
-         style="fill:none;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3833-0-7-3-9-6-30"
          y="241.43362"
-         x="129.78572"
-         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           id="tspan4382-9-5-8-0"
-           style="font-size:10px"
-           y="241.43362"
-           x="129.78572"
-           sodipodi:role="line">Netherrail</tspan></text>
-    </g>
+         style="font-size:10px"
+         id="tspan4382-9-5-8-0">Netherrail</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3925-1-5-5"
@@ -1072,5 +1082,103 @@
          y="399.72812"
          style="font-size:10px"
          id="tspan5202">Grounds</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3925-7-4-2-3"
+       width="10"
+       height="10"
+       x="562.19318"
+       y="474.64789" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="576.83606"
+       y="482.14789"
+       id="text3833-0-49-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835-59-5-5"
+         x="576.83606"
+         y="482.14789"
+         style="font-size:10px">Tryon</tspan></text>
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0"
+       d="M 630.35716,542.4514 C 575.2232,540.75757 519.49528,546.56236 471.73539,451.77092 L 250.0422,601.25059"
+       id="path5264"
+       inkscape:connector-curvature="0"
+       transform="translate(-63.163979,-62.803509)"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3925-7-4-2-0"
+       width="10"
+       height="10"
+       x="37.730808"
+       y="544.29077" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="49.272732"
+       y="553.0188"
+       id="text3833-0-35-9-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835-59-54-1-0"
+         x="49.272732"
+         y="553.0188"
+         style="font-size:10px">RAA Poniri</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="65.890846"
+       y="437.12592"
+       id="text3833-0-35-9-5-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835-59-54-1-0-6"
+         x="65.890846"
+         y="437.12592"
+         style="font-size:10px">Alderaan</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3925-7-5-5"
+       width="10"
+       height="10"
+       x="113.26459"
+       y="428.57648" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,2;stroke-dashoffset:0"
+       d="m 114.78571,251.43363 10,0"
+       id="path4677-1-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="129.78572"
+       y="256.43362"
+       id="text3833-0-7-3-9-6-30-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="129.78572"
+         y="256.43362"
+         style="font-size:10px"
+         id="tspan4382-9-5-8-0-9">Teleport</tspan></text>
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 114.78572,266.43363 9.99999,0"
+       id="path4677-1-9-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="129.78572"
+       y="271.43362"
+       id="text3833-0-7-3-9-6-30-2-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="129.78572"
+         y="271.43362"
+         style="font-size:10px"
+         id="tspan4382-9-5-8-0-9-8">Nether Walkway</tspan></text>
   </g>
 </svg>
