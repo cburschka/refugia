@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="274.17055"
-     inkscape:cy="393.29043"
+     inkscape:zoom="1.4"
+     inkscape:cx="386.60462"
+     inkscape:cy="407.66173"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,7 +39,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-grids="true"
+     inkscape:snap-grids="false"
      inkscape:window-width="1680"
      inkscape:window-height="1026"
      inkscape:window-x="0"
@@ -73,6 +73,18 @@
      id="layer1"
      transform="translate(63.163979,62.803509)">
     <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.35714,361.43363 -64.9999964,0"
+       id="path5473"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0"
+       d="M 630.35716,542.4514 C 575.2232,540.75757 519.49528,546.56236 471.73539,451.77092 L 250.0422,601.25059"
+       id="path5264"
+       inkscape:connector-curvature="0"
+       transform="translate(-63.163979,-62.803509)"
+       sodipodi:nodetypes="cc" />
+    <path
        style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0"
        d="M 630.35716,542.4514 C 509.80383,441.48936 506.0125,435.62215 471.73539,404.92631 l -290.30682,91.45367"
        id="path5262"
@@ -81,7 +93,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0"
-       d="M 470.98361,203.07648 42.730809,549.29077"
+       d="M 470.98361,203.07648 63.35714,361.43363"
        id="path5327"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1101,31 +1113,24 @@
          x="576.83606"
          y="482.14789"
          style="font-size:10px">Tryon</tspan></text>
-    <path
-       style="fill:none;stroke:#ff00ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0"
-       d="M 630.35716,542.4514 C 575.2232,540.75757 519.49528,546.56236 471.73539,451.77092 L 250.0422,601.25059"
-       id="path5264"
-       inkscape:connector-curvature="0"
-       transform="translate(-63.163979,-62.803509)"
-       sodipodi:nodetypes="cc" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3925-7-4-2-0"
        width="10"
        height="10"
-       x="37.730808"
-       y="544.29077" />
+       x="58.357143"
+       y="356.43365" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="49.272732"
-       y="553.0188"
+       x="70.074142"
+       y="365.92859"
        id="text3833-0-35-9-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-54-1-0"
-         x="49.272732"
-         y="553.0188"
+         x="70.074142"
+         y="365.92859"
          style="font-size:10px">RAA Poniri</tspan></text>
     <text
        xml:space="preserve"
@@ -1180,5 +1185,60 @@
          y="271.43362"
          style="font-size:10px"
          id="tspan4382-9-5-8-0-9-8">Nether Walkway</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3925-7-4-2-0-2"
+       width="10"
+       height="10"
+       x="25.857141"
+       y="356.43365" />
+    <rect
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3925-7-4-2-0-9"
+       width="10"
+       height="10"
+       x="-6.6428599"
+       y="356.43365" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="24.846989"
+       y="377.14178"
+       id="text3833-0-35-9-5-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835-59-54-1-0-2"
+         x="24.846989"
+         y="377.14178"
+         style="font-size:10px">Poniri</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-6.9720817"
+       y="376.72253"
+       id="text3833-0-35-9-5-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835-59-54-1-0-3"
+         x="-6.9720817"
+         y="376.72253"
+         style="font-size:10px">Gull</tspan><tspan
+         sodipodi:role="line"
+         x="-6.9720817"
+         y="389.22253"
+         style="font-size:10px"
+         id="tspan5530">Island</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="49.693169"
+       y="82.147896"
+       id="text5532"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5534"
+         x="49.693169"
+         y="82.147896"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Physical distances not to scale</tspan></text>
   </g>
 </svg>
