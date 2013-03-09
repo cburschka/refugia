@@ -15,6 +15,8 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="refugian-rail.svg">
+  <title
+     id="title3407">The Refugian Rail</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="453.2268"
-     inkscape:cy="373.27124"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="312.9308"
+     inkscape:cy="273.14638"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,10 +59,6 @@
        snapvisiblegridlinesonly="true"
        originx="188.0592px"
        originy="9.9999247px" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="633.8595,729.74998"
-       id="guide3277" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -70,7 +68,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>The Refugian Rail</dc:title>
+        <dc:date>2013-03-09</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arancaytar</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>en</dc:language>
       </cc:Work>
     </rdf:RDF>
   </metadata>
