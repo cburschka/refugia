@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="811.07886"
@@ -18,7 +19,33 @@
   <title
      id="title3407">The Refugian Rail</title>
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient5112">
+      <stop
+         id="stop5120"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.78571427"
+         id="stop5126" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="1"
+         id="stop5116" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5112"
+       id="linearGradient6570"
+       x1="617.98773"
+       y1="152.67676"
+       x2="628.4599"
+       y2="152.67676"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="repeat" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="197.53685"
-     inkscape:cy="289.25283"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="739.6099"
+     inkscape:cy="414.54925"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +74,7 @@
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-nodes="true">
     <inkscape:grid
@@ -59,6 +86,14 @@
        snapvisiblegridlinesonly="true"
        originx="188.0592px"
        originy="9.9999247px" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="618.98776,598.50001"
+       id="guide5122" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="627.45989,584.12071"
+       id="guide5124" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -84,6 +119,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(168.27348,77.553512)">
+    <path
+       style="fill:none;stroke:url(#linearGradient6570);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 627.45989,159.86641 0,-14.3793 -8.47213,1e-5"
+       id="path4342"
+       inkscape:connector-curvature="0"
+       transform="translate(-168.27348,-77.553512)"
+       sodipodi:nodetypes="ccc" />
     <path
        style="fill:#5599ff;stroke:#80b3ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 685.52237,155.11641 -153.17198,0"
@@ -445,8 +487,8 @@
        id="rect3925-8-9"
        width="10"
        height="10"
-       x="454.10715"
-       y="77.208092" />
+       x="454.1864"
+       y="77.312897" />
     <path
        sodipodi:type="arc"
        style="fill:#ff9955;stroke:#d45500;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -562,15 +604,15 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="409.78571"
-       y="86.433632"
+       x="459.1864"
+       y="61.383747"
        id="text3833-0-22"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-2"
-         x="409.78571"
-         y="86.433632"
-         style="font-size:10px">Laputa</tspan></text>
+         x="459.1864"
+         y="61.383747"
+         style="font-size:10px">Iota</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1055,7 +1097,7 @@
            y="86.735146"
            x="18.874025"
            id="tspan4923"
-           sodipodi:role="line">As of 2013-03-09</tspan></text>
+           sodipodi:role="line">As of 2013-03-10</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5532"
@@ -1342,5 +1384,27 @@
          d="m -47.12667,159.41167 9.999999,0"
          style="fill:#80b3ff;stroke:#80b3ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3783-2-0"
+       sodipodi:cx="95.714287"
+       sodipodi:cy="202.36218"
+       sodipodi:rx="8.5714283"
+       sodipodi:ry="8.5714283"
+       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       transform="matrix(0.58955223,0,0,0.58955223,394.28571,-51.369472)" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="463.94336"
+       y="99.2873"
+       id="text3833-0-22-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835-59-2-2"
+         x="463.94336"
+         y="99.2873"
+         style="font-size:10px">Laputa</tspan></text>
   </g>
 </svg>
