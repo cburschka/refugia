@@ -28,7 +28,7 @@
          style="stop-color:#000000;stop-opacity:1;" />
       <stop
          style="stop-color:#000000;stop-opacity:1;"
-         offset="0.78571427"
+         offset="0.53504986"
          id="stop5126" />
       <stop
          style="stop-color:#0000ff;stop-opacity:1;"
@@ -39,10 +39,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient5112"
        id="linearGradient6570"
-       x1="617.98773"
-       y1="152.67676"
-       x2="628.4599"
-       y2="152.67676"
+       x1="614.48773"
+       y1="140.42676"
+       x2="625.8349"
+       y2="157.67676"
        gradientUnits="userSpaceOnUse"
        spreadMethod="repeat" />
   </defs>
@@ -53,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="739.6099"
-     inkscape:cy="414.54925"
+     inkscape:zoom="2"
+     inkscape:cx="840.80724"
+     inkscape:cy="348.916"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -127,7 +127,7 @@
        transform="translate(-168.27348,-77.553512)"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill:#5599ff;stroke:#80b3ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 685.52237,155.11641 -153.17198,0"
        id="path3273"
        inkscape:connector-curvature="0"
@@ -1202,7 +1202,7 @@
          style="font-size:10px"
          id="tspan4995-4">Trenton</tspan></text>
     <rect
-       style="fill:#00ffff;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3925-8-9-6"
        width="10"
        height="10"
@@ -1392,7 +1392,7 @@
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,394.28571,-51.369472)" />
     <text
        xml:space="preserve"
