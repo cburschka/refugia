@@ -53,15 +53,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="207.05187"
-     inkscape:cy="341.42291"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="565.51496"
+     inkscape:cy="188.61166"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-smooth-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:object-paths="true"
      fit-margin-top="10"
@@ -74,9 +74,10 @@
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-nodes="true">
+     inkscape:snap-nodes="true"
+     inkscape:snap-midpoints="false">
     <inkscape:grid
        type="xygrid"
        id="grid4624"
@@ -180,11 +181,11 @@
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-       d="m 479.94969,449.23714 0,-175 153,-1 0,-273.75001842 -155.51219,0"
+       d="m 479.94969,604.67464 0,-330.4375 153,-1 0,-273.75001842 -155.51219,0 155.31893,0 -155.31893,0 155.4957,0 0,273.75012842 103.06082,0 0,-19.70622 19.09188,0 -18.91511,0 0,19.09188 0,76.19076"
        id="path5536"
        inkscape:connector-curvature="0"
        transform="translate(-63.163979,-62.803509)"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccccccccccccccc" />
     <path
        style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0"
        d="m 472.94969,404.23714 -176.24341,0 0,186.4939 -233.753561,0"
@@ -1451,5 +1452,43 @@
          y="614.21716"
          style="font-size:10px"
          id="tspan4402-7-5-3">RAA</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3925-8-2-2-1"
+       width="10"
+       height="10"
+       x="687.45227"
+       y="186.43463" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="674.46313"
+       y="183.23073"
+       id="text3833-8-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835-0-2"
+         x="674.46313"
+         y="183.23073"
+         style="font-size:10px">Canton</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3925-1-5-51"
+       width="10"
+       height="10"
+       x="668.00684"
+       y="281.18695" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="639.30347"
+       y="302.46609"
+       id="text3833-1-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835-1-8"
+         x="639.30347"
+         y="302.46609"
+         style="font-size:10px">Nether Fortress</tspan></text>
   </g>
 </svg>
