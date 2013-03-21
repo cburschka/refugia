@@ -17,7 +17,7 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="refugian-rail.svg">
   <title
-     id="title3407">The Refugian Rail</title>
+     id="title3407">The Refugian Transit System</title>
   <defs
      id="defs4">
     <linearGradient
@@ -104,7 +104,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>The Refugian Rail</dc:title>
+        <dc:title>The Refugian Transit System</dc:title>
         <dc:date>2013-03-09</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -1069,48 +1069,63 @@
       <text
          sodipodi:linespacing="125%"
          id="text4540"
-         y="-5.1152864"
-         x="-72.946289"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         y="-1.9333059"
+         x="-51.810921"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            id="tspan4548"
-           y="-5.1152864"
-           x="-72.946289"
-           sodipodi:role="line">The Refugian Rail</tspan></text>
+           y="-1.9333059"
+           x="-51.810921"
+           sodipodi:role="line">The Refugian</tspan><tspan
+           y="48.066692"
+           x="-51.810921"
+           sodipodi:role="line"
+           id="tspan4215" /></text>
       <text
          sodipodi:linespacing="125%"
          id="text4898"
-         y="26.735147"
-         x="28.874025"
+         y="71.885902"
+         x="-30.370401"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="26.735147"
-           x="28.874025"
+           y="71.885902"
+           x="-30.370401"
            id="tspan4900"
-           sodipodi:role="line">by Arancaytar</tspan></text>
+           sodipodi:role="line">by Arancaytar &amp; ADoS</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4921"
-         y="86.735146"
-         x="18.874025"
+         y="120.92576"
+         x="-2.5401883"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="86.735146"
-           x="18.874025"
+           y="120.92576"
+           x="-2.5401883"
            id="tspan4923"
            sodipodi:role="line">As of 2013-03-20</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5532"
-         y="52.449409"
-         x="-1.2185193"
+         y="95.478844"
+         x="-24.046947"
          style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-style:italic;-inkscape-font-specification:Sans Italic"
-           y="52.449409"
-           x="-1.2185193"
+           y="95.478844"
+           x="-24.046947"
            id="tspan5534"
            sodipodi:role="line">Relative locations not to scale</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-66.80365"
+         y="40.997662"
+         id="text3223"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3226"
+           x="-66.80365"
+           y="40.997662">Transit System</tspan></text>
     </g>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1.31203294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
