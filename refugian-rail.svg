@@ -642,19 +642,19 @@
          x="308.28806"
          y="194.22021"
          style="font-size:10px"
-         id="tspan4422">Centre</tspan></text>
+         id="tspan3235">Center</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="373.5116"
+       x="353.5116"
        y="255.13139"
        id="text3833-0-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-90"
-         x="373.5116"
+         x="353.5116"
          y="255.13139"
-         style="font-size:10px">Spire</tspan></text>
+         style="font-size:10px">The Spire</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -706,15 +706,15 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="361.89484"
+       x="339.39484"
        y="545.04517"
        id="text3833-0-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-98"
-         x="361.89484"
+         x="339.39484"
          y="545.04517"
-         style="font-size:10px">Rockfall</tspan></text>
+         style="font-size:10px">Fort Rockfall</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -794,7 +794,12 @@
          id="tspan3835-59-92"
          x="572.51166"
          y="333.92328"
-         style="font-size:10px">Dagobah</tspan></text>
+         style="font-size:10px">Dagobah</tspan><tspan
+         sodipodi:role="line"
+         x="572.51166"
+         y="346.42328"
+         style="font-size:10px"
+         id="tspan3209">Temple</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -894,15 +899,20 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="473.52301"
-       y="194.61382"
+       x="485.52301"
+       y="188.11382"
        id="text3833-0-32-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="473.52301"
-         y="194.61382"
+         x="485.52301"
+         y="188.11382"
          style="font-size:10px"
-         id="tspan4402-7">RAA</tspan></text>
+         id="tspan4402-7">Syco</tspan><tspan
+         sodipodi:role="line"
+         x="485.52301"
+         y="200.61382"
+         style="font-size:10px"
+         id="tspan3227">RAA</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3925-7-4-2"
@@ -913,15 +923,20 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="142.9977"
-       y="327.87589"
+       x="161.9977"
+       y="321.87589"
        id="text3833-0-220-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="142.9977"
-         y="327.87589"
+         x="161.9977"
+         y="321.87589"
          style="font-size:10px"
-         id="tspan4995">Great Shaft</tspan></text>
+         id="tspan4995">Massive</tspan><tspan
+         sodipodi:role="line"
+         x="161.9977"
+         y="334.37589"
+         style="font-size:10px"
+         id="tspan3215">Shaft</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -997,10 +1012,10 @@
        id="text3833-0-35-9-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3835-59-54-1-0"
          x="-81.056488"
          y="472.45193"
-         style="font-size:10px">Poniri</tspan></text>
+         style="font-size:10px"
+         id="tspan3201">Poniri RAA</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1433,7 +1448,12 @@
          x="375.52948"
          y="460.13718"
          style="font-size:10px"
-         id="tspan4402-7-5">RAA</tspan></text>
+         id="tspan4402-7-5">Alpha</tspan><tspan
+         sodipodi:role="line"
+         x="375.52948"
+         y="472.63718"
+         style="font-size:10px"
+         id="tspan3207">RAA</tspan></text>
     <path
        style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0"
        d="m 555.16721,521.51365 -136.89794,0 0,103.7506 -107.14229,0 0,48.02996 -99.85928,0"
@@ -1466,7 +1486,12 @@
          x="33.162754"
          y="614.21716"
          style="font-size:10px"
-         id="tspan4402-7-5-3">RAA</tspan></text>
+         id="tspan4402-7-5-3">Falconhurst</tspan><tspan
+         sodipodi:role="line"
+         x="33.162754"
+         y="626.71716"
+         style="font-size:10px"
+         id="tspan3205">RAA</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3925-8-2-2-1"
