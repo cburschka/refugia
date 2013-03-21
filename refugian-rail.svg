@@ -249,7 +249,7 @@ It connects to the Iota Transfer at Laputa.</desc>
     </path>
     <path
        style="fill:none;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-       d="m 479.94969,604.67464 0,-330.4375 153,-1 0,-273.75001842 -155.51219,0 155.31893,0 -155.31893,0 155.4957,0 0,273.75012842 103.06082,0 0,-19.70622 19.09188,0 -19.09188,0 -2e-5,95.31261"
+       d="m 479.94969,604.67464 0,-330.4375 153,-1 0,-273.75001842 -155.51219,0 0,78.18637642 0,-78.18637642 155.51219,0 -0.0165,273.75012842 103.06082,0 0,-19.70622 19.09188,0 -19.09188,0 0,95.31261"
        id="path-nether"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccc"
@@ -298,9 +298,10 @@ It connects to the Western Line at Eta.</desc>
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 450.71428,14.869989 -36.55174,0"
+       d="m 450.71428,14.869989 -36.44075,0"
        id="path-sky-deacon"
-       inkscape:connector-curvature="0">
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc">
       <desc
          id="desc4045">This line connects Zeta to the Deacon Outpost.
 
@@ -591,7 +592,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        id="marker-station-deacon"
        width="10"
        height="10"
-       x="409.16254"
+       x="409.27353"
        y="9.8699894" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
