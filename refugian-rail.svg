@@ -121,7 +121,7 @@
      id="layer1"
      transform="translate(168.27348,77.553512)">
     <rect
-       style="fill:#00ff00;fill-opacity:0.28019325;stroke:#00ff00;stroke-width:1.92333925;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#00ff00;fill-opacity:0.28019325000000000;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect5544-8"
        width="107.40677"
        height="165.40678"
@@ -135,7 +135,7 @@
        x="321.67889"
        y="382.27893" />
     <rect
-       style="fill:#00ff00;fill-opacity:0.28019325;stroke:#00ff00;stroke-width:1.2091949;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#00ff00;fill-opacity:0.28019325000000000;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect5544"
        width="87.370903"
        height="80.370926"
@@ -1164,12 +1164,12 @@
            y="40.997662">Transit System</tspan></text>
     </g>
     <rect
-       style="fill:#00ff00;stroke:#008000;stroke-width:1.31203294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3925-7-7"
-       width="17.214304"
-       height="10"
-       x="403.57141"
-       y="536.29077" />
+       width="16.999727"
+       height="9.9997272"
+       x="403.70642"
+       y="536.46667" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3925-7"
@@ -1185,20 +1185,6 @@
        x="403.57141"
        y="246.70679" />
     <rect
-       style="fill:#00ff00;stroke:#008000;stroke-width:1.82504165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925"
-       width="18.621218"
-       height="17.886999"
-       x="445.94937"
-       y="198.31155" />
-    <rect
-       style="fill:#00ff00;stroke:#008000;stroke-width:1.26551116;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-1"
-       width="9.7344885"
-       height="16.452003"
-       x="564.85876"
-       y="197.74744" />
-    <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3925-8-2-7"
        width="10"
@@ -1206,12 +1192,12 @@
        x="564.78571"
        y="22.641481" />
     <rect
-       style="fill:#00ff00;stroke:#008000;stroke-width:1.19465542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3925-8-2"
-       width="9.8053446"
-       height="14.555345"
-       x="409.25986"
-       y="-66.956184" />
+       width="9.9999409"
+       height="14.999941"
+       x="409.2731"
+       y="-67.414032" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1604,5 +1590,19 @@
          x="639.30347"
          y="302.46609"
          style="font-size:10px">Nether Fortress</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#008000;stroke-width:0.96969694;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3925-9-8"
+       width="15.030303"
+       height="15.030303"
+       x="447.33636"
+       y="199.16847" />
+    <rect
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3925-9-83"
+       width="10"
+       height="15"
+       x="564.9765"
+       y="199.18362" />
   </g>
 </svg>
