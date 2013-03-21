@@ -120,197 +120,304 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(168.27348,77.553512)">
+    <path
+       style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0"
+       d="m 472.94969,404.23714 -176.24341,0 0,186.4939 -233.753561,0"
+       id="path-tele-alderaan"
+       inkscape:connector-curvature="0"
+       transform="translate(-63.163979,-62.803509)"
+       sodipodi:nodetypes="cccc">
+      <desc
+         id="desc4049">This is a teleport link between Neboo and Alderaan.</desc>
+      <title
+         id="title4047">Neboo Alderaan Link</title>
+    </path>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 209.09032,436.6479 -73.64067,0 0,150.03396 -130.6734771,-0.35355"
+       id="path-sky-western"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc">
+      <desc
+         id="desc3245">The Western line connects Epsilon to Falconhurst RAA, extending west, south and west.
+
+On it lie, going outward:
+
+Epsilon,
+Eta,
+Tentholm,
+Whitewall,
+Swhump,
+Falconhurst,
+Falconhurst RAA
+
+It connects to the Circle Line at Epsilon, and Honkwig Line at Eta.</desc>
+      <title
+         id="title3243">Western Line</title>
+    </path>
     <rect
        style="fill:#00ff00;fill-opacity:0.28019325000000000;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect5544-8"
+       id="area-mane-settlement"
        width="107.40677"
        height="165.40678"
        x="321.89813"
-       y="239.85524" />
+       y="239.85524">
+      <title
+         id="title3262">Mane Settlement</title>
+    </rect>
     <rect
        style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.52073908;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect5544-4-4"
+       id="area-label-mane-settlement"
        width="57.095249"
        height="22.809381"
        x="321.67889"
        y="382.27893" />
     <rect
        style="fill:#00ff00;fill-opacity:0.28019325000000000;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect5544"
+       id="area-syco"
        width="87.370903"
        height="80.370926"
        x="424.35028"
-       y="151.49817" />
+       y="151.49817">
+      <title
+         id="title3260">Syco Complex</title>
+    </rect>
     <rect
        style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.46112782;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect5544-4"
+       id="area-labelbox-syco"
        width="44.654861"
        height="22.868992"
        x="482.16705"
        y="213.37413" />
     <path
        style="fill:none;stroke:url(#linearGradient6570);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 627.45989,159.86641 0,-14.3793 -8.47213,1e-5"
-       id="path4342"
+       d="m 627.45988,159.86642 10e-6,-14.37931 -8.47213,0"
+       id="path-transfer-iota"
        inkscape:connector-curvature="0"
        transform="translate(-168.27348,-77.553512)"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:#0000ff;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 685.52237,155.11641 -153.17198,0"
-       id="path3273"
-       inkscape:connector-curvature="0"
-       transform="translate(-73.163979,-72.803509)"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="ccc">
+      <desc
+         id="desc3265">This line connects Iota to Laputa, and serves as a transfer between Skyrail and Searail.
+
+It connects to the Northern Line at Iota, and to the Searail at Laputa.</desc>
+      <title
+         id="title3263">Iota Transfer</title>
+    </path>
     <path
        style="fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 532.35039,155.11641 0,125.76399"
-       id="path3253"
+       d="m 532.35039,280.8804 0,-125.76399 0,0 153.69081,0"
+       id="path-sea"
        inkscape:connector-curvature="0"
-       transform="translate(-73.163979,-72.803509)" />
+       transform="translate(-73.163979,-72.803509)">
+      <desc
+         id="desc3269">This is the entire Searail network.
+
+It connects to the Iota Transfer at Laputa.</desc>
+      <title
+         id="title3267">Sea Rail</title>
+    </path>
     <path
        style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 640.71295,509.12299 0,43.36218"
-       id="path3185"
+       id="path-unfinished-sky-tryon"
        inkscape:connector-curvature="0"
        transform="translate(-73.163979,-72.803509)" />
     <path
        style="fill:none;stroke:#eeaaff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 479.94969,474.23714 -173.24621,0 0,128 -107.77665,0"
-       id="path5594"
+       id="path-unfinished-nether-whitewall"
        inkscape:connector-curvature="0"
        transform="translate(-63.163979,-62.803509)"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e580ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 629.94969,541.23714 -150,0"
-       id="path5592"
-       inkscape:connector-curvature="0"
-       transform="translate(-63.163979,-62.803509)" />
-    <path
-       style="fill:none;stroke:#e580ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 479.94969,454.23714 0,150"
-       id="path5590"
+       id="path-unfinished-nether-tryon"
        inkscape:connector-curvature="0"
        transform="translate(-63.163979,-62.803509)" />
     <path
        style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0"
        d="m -24.407453,529.76227 0,-191.02513 567.458673,0 0,-74.5"
-       id="path5542"
+       id="path-tele-poniri"
        inkscape:connector-curvature="0"
        transform="translate(-63.163979,-62.803509)"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc">
+      <desc
+         id="desc4053">This is a teleport link between Syco RAA and Poniri RAA.</desc>
+      <title
+         id="title4051">Syco Poniri Link</title>
+    </path>
     <path
        style="fill:none;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-       d="m 479.94969,604.67464 0,-330.4375 153,-1 0,-273.75001842 -155.51219,0 155.31893,0 -155.31893,0 155.4957,0 0,273.75012842 103.06082,0 0,-19.70622 19.09188,0 -18.91511,0 0,19.09188 0,76.19076"
-       id="path5536"
+       d="m 479.94969,604.67464 0,-330.4375 153,-1 0,-273.75001842 -155.51219,0 155.31893,0 -155.31893,0 155.4957,0 0,273.75012842 103.06082,0 0,-19.70622 19.09188,0 -19.09188,0 -2e-5,95.31261"
+       id="path-nether"
        inkscape:connector-curvature="0"
-       transform="translate(-63.163979,-62.803509)"
-       sodipodi:nodetypes="ccccccccccccccc" />
-    <path
-       style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0"
-       d="m 472.94969,404.23714 -176.24341,0 0,186.4939 -233.753561,0"
-       id="path5538"
-       inkscape:connector-curvature="0"
-       transform="translate(-63.163979,-62.803509)"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccccccccccccc"
+       transform="translate(-63.163979,-62.803509)">
+      <desc
+         id="desc4062">This is the entire Nether Rail network.
+
+Due to the low number of junctions, it is currently not split into lines.</desc>
+      <title
+         id="title4060">Nether Rail</title>
+    </path>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -87.773487,467.95697 -64.999993,0"
-       id="path5473"
-       inkscape:connector-curvature="0" />
+       id="path-sky-poniri"
+       inkscape:connector-curvature="0">
+      <desc
+         id="desc4066">This line connects Gull Island, Poniri and Poniri RAA.
+
+It does not connect to the rest of the Skyrail network, but is reachable by teleport via Poniri RAA.</desc>
+      <title
+         id="title4064">Poniri Line</title>
+    </path>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 136.03024,436.54794 0,-51.13898"
-       id="path4291"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 209.09032,436.6479 -73.64067,0 0,150.03396 -130.6734771,-0.35355"
-       id="path4271"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       d="m 135.44965,436.6479 0,-51.13898"
+       id="path-sky-honkwig"
+       inkscape:connector-curvature="0">
+      <desc
+         id="desc3249">This line connects Eta to Honkwig.
+
+It connects to the Western Line at Eta.</desc>
+      <title
+         id="title3247">Honkwig Line</title>
+    </path>
     <path
        style="fill:none;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 535.58302,436.14282 91.39336,0.50508"
-       id="path4206"
+       id="path-unfinished-sky-eastern"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 440.99472,651.07908 -32.26175,0 0,-62.62945"
-       id="path4204"
+       d="m 440.83317,651.32907 -32.26175,0 0,-62.62945"
+       id="path-unfinished-sky-mountain"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 408.57142,588.66448 -35.71428,0.12627"
-       id="path4175"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 450.71428,14.869989 -36.55174,0"
-       id="path4102"
-       inkscape:connector-curvature="0" />
+       id="path-sky-deacon"
+       inkscape:connector-curvature="0">
+      <desc
+         id="desc4045">This line connects Zeta to the Deacon Outpost.
+
+It connects to the Northern Line at Zeta.</desc>
+      <title
+         id="title4043">Deacon Line</title>
+    </path>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 450.71428,172.51448 20.77442,-0.2477"
-       id="path4039"
-       inkscape:connector-curvature="0" />
+       id="path-sky-stadium"
+       inkscape:connector-curvature="0">
+      <title
+         id="title3271">Stadium Line</title>
+    </path>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 450.71428,203.07648 c 0,-102.61905 0,-157.760937 0,-260.37999 -12.18391,0 -24.36783,0 -36.55174,0"
-       id="path4019"
+       id="path-sky-northern"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc">
+      <desc
+         id="desc3253">This line connects Syco HQ to North Vandia, extending north.
+
+On it lie, going outward:
+Syco HQ,
+Syco Junction,
+Welcome Center,
+Iota,
+Zeta,
+North Vandia.
+
+It connects to the Circle Line at Syco HQ, the Stadium Line at Syco Junction, the Sea/Sky Transfer at Iota and the Deacon Line at Zeta.</desc>
+      <title
+         id="title3251">Northern Line</title>
+    </path>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 535.58302,319.1479 75,0"
-       id="path3981"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 408.57142,436.16913 0,152.53049"
-       id="path3917"
+       id="path-sky-dagobah"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc">
+      <desc
+         id="desc3257">This line connects Delta to Dagobah Temple.
+
+It connects to the Circle Line at Delta.</desc>
+      <title
+         id="title3255">Dagobah Line</title>
+    </path>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 535.58302,202.36219 34.14301,0.25249"
-       id="path3894"
-       inkscape:connector-curvature="0" />
+       d="m 408.57142,203.07648 0,385.62314 -35.59737,0"
+       id="path-sky-meridian"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc">
+      <title
+         id="title3241">Meridian Line</title>
+      <desc
+         id="desc3237">This line connects Alpha and Beta, extending southward. It lies precisely on x=0, and is dubbed the Meridian Line.
+
+On it lie, from north to south:
+
+- Beta
+- The Spire
+- Outer Haven
+- Neboo
+- Iffy
+- Alpha
+- Dikiyobia
+- Fort Rockfall
+- Dashite Bluff
+
+It connects to the Circle Line at Alpha and Beta.</desc>
+    </path>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 408.57142,203.07648 c 0,77.69755 0,155.3951 0,233.09265"
-       id="path3788"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="fill:#000000;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3005"
-       width="2.8571429"
-       height="6.0714288"
-       x="21.785715"
-       y="215.93361" />
+       d="m 536.21437,203.07648 34.14301,0.25249"
+       id="path-sky-hyphean"
+       inkscape:connector-curvature="0">
+      <desc
+         id="desc3261">This line connects Gamma to the Hyphean Outpost.
+
+It connects to the Circle Line at Gamma.</desc>
+      <title
+         id="title3259">Hyphean Line</title>
+    </path>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
        d="m 209.00738,203.07648 c 121.87417,0 205.33282,0 327.20699,0 0,77.85714 0,155.71428 0,233.57142 -121.87319,-0.83876 -205.33278,-0.16369 -327.20699,0 0,-77.85714 0,-155.71428 0,-233.57142 z"
-       id="rect3781"
+       id="path-sky-circle"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="#path-sky-circle">
+      <title
+         id="title3239">Circle Line</title>
+      <desc
+         id="desc3235">This segment of Skyrail connects the junctions Alpha, Beta, Gamma, Delta and Epsilon in a grand rectangle spanned between Gamma and Epsilon, and is dubbed the Circle Line.
+
+On this line lie, in clockwise order from Alpha:
+- Alpha, Alpha RAA, Epsilon, Massive Shaft, Trenton, Entertainment Center, Beta, Syco HQ, Syco RAA, Gamma, Delta, Proving Grounds, Drypeak.
+
+It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta, the Northern Line at Syco HQ, the Hyphean Line at Gamma, and the Dagobah Line at Delta.</desc>
+    </path>
     <path
        sodipodi:type="arc"
        style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783"
+       id="marker-junction-beta"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
        d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
-       transform="matrix(0.58955223,0,0,0.58955223,352.14285,83.773405)" />
+       transform="matrix(0.58955223,0,0,0.58955223,352.14285,83.773404)" />
     <path
        sodipodi:type="arc"
        style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783-8"
+       id="marker-junction-alpha"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
@@ -320,17 +427,17 @@
     <path
        sodipodi:type="arc"
        style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783-7"
+       id="marker-junction-gamma"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
        d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
-       transform="matrix(0.58955223,0,0,0.58955223,479.15445,83.059118)" />
+       transform="matrix(0.58955223,0,0,0.58955223,479.7858,83.773404)" />
     <path
        sodipodi:type="arc"
        style="fill:#ff9955;stroke:#aa4400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783-4"
+       id="marker-unfinished-junction-circle-eastern"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
@@ -340,7 +447,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783-5"
+       id="marker-junction-epsilon"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
@@ -349,21 +456,10 @@
        transform="matrix(0.58955223,0,0,0.58955223,152.66175,317.34482)" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="392.44427"
-       y="221.5117"
-       id="text3829"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3831"
-         x="392.44427"
-         y="221.5117" /></text>
-    <text
-       xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="377.86279"
        y="427.1257"
-       id="text3833"
+       id="label-junction-alpha"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835"
@@ -375,7 +471,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="395.1731"
        y="191.77231"
-       id="text3833-6"
+       id="label-junction-beta"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-5"
@@ -387,7 +483,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="514.56982"
        y="193.28754"
-       id="text3833-8"
+       id="label-junction-gamma"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-0"
@@ -399,7 +495,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="501.01013"
        y="322.0235"
-       id="text3833-1"
+       id="label-junction-delta"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-1"
@@ -409,7 +505,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783-7-7"
+       id="marker-junction-delta"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
@@ -421,7 +517,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="190.04393"
        y="452.17715"
-       id="text3833-0"
+       id="label-junction-epsilon"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59"
@@ -430,28 +526,28 @@
          style="font-size:10px">Epsilon</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-6"
+       id="marker-station-haven"
        width="10"
        height="10"
        x="403.57141"
        y="293.52194" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-68"
+       id="marker-station-neboo"
        width="10"
        height="10"
        x="403.57141"
        y="337.1228" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-0"
+       id="marker-station-drypeak"
        width="10"
        height="10"
        x="480.71429"
        y="431.40851" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-1-5"
+       id="marker-station-dagobah"
        width="10"
        height="10"
        x="605.58301"
@@ -459,7 +555,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783-2"
+       id="marker-junction-syco"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
@@ -468,14 +564,14 @@
        transform="matrix(0.58955223,0,0,0.58955223,394.28571,53.211404)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-9"
+       id="marker-station-stadium"
        width="10"
        height="10"
        x="466.48871"
        y="167.26678" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-8"
+       id="marker-station-welcome"
        width="10"
        height="10"
        x="445.71429"
@@ -483,7 +579,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783-2-4"
+       id="marker-junction-zeta"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
@@ -492,66 +588,66 @@
        transform="matrix(0.58955223,0,0,0.58955223,394.28571,-104.43309)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-8-2-8"
+       id="marker-station-deacon"
        width="10"
        height="10"
        x="409.16254"
        y="9.8699894" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-8-2-2"
+       id="marker-station-syco-raa"
        width="10"
        height="10"
        x="475.32751"
        y="198.07648" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-8-9"
+       id="marker-station-laputa"
        width="10"
        height="10"
        x="454.1864"
-       y="77.312897" />
+       y="77.312904" />
     <path
        sodipodi:type="arc"
        style="fill:#ff9955;stroke:#d45500;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783-8-8"
+       id="marker-unfinished-junction-dashite"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
        d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
-       transform="matrix(0.58955223,0,0,0.58955223,352.14285,469.39909)" />
+       transform="matrix(0.58955223,0,0,0.58955223,352.14285,469.39654)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-0-0"
+       id="marker-station-dashite-bluff"
        width="10"
        height="10"
-       x="367.85715"
-       y="583.79077" />
+       x="367.97406"
+       y="583.69965" />
     <rect
        style="fill:#00ffff;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-0-6"
+       id="marker-unfinished-mountain"
        width="10"
        height="10"
-       x="436.07144"
-       y="645.93359" />
+       x="435.83316"
+       y="646.32904" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-6"
+       id="marker-station-dikiyobia"
        width="10"
        height="10"
        x="403.57141"
        y="483.07648" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-4"
+       id="marker-station-entertainment"
        width="10"
        height="10"
        x="342.5687"
        y="198.07648" />
     <rect
        style="fill:#00ffff;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-0-6-6"
+       id="marker-unfinished-dikiyoba"
        width="10"
        height="10"
        x="621.97638"
@@ -559,7 +655,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783-5-9"
+       id="marker-junction-eta"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
@@ -568,28 +664,28 @@
        transform="matrix(0.58955223,0,0,0.58955223,79.021079,317.34482)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-5"
+       id="marker-station-honkwig"
        width="10"
        height="10"
-       x="131.03023"
-       y="380.40897" />
+       x="130.44965"
+       y="380.50891" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-51"
+       id="marker-station-tentholm"
        width="10"
        height="10"
        x="130.44965"
        y="481.42422" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-2"
+       id="marker-station-whitewall"
        width="10"
        height="10"
        x="130.44965"
        y="533.44708" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-2-4"
+       id="marker-station-falconhurst"
        width="10"
        height="10"
        x="35.901405"
@@ -599,7 +695,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="464.78571"
        y="161.43362"
-       id="text3833-0-3"
+       id="label-station-stadium"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-0"
@@ -611,7 +707,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="399.78571"
        y="126.43363"
-       id="text3833-0-7"
+       id="label-station-welcome"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-00"
@@ -628,7 +724,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="459.1864"
        y="61.383747"
-       id="text3833-0-22"
+       id="label-junction-iota"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-2"
@@ -640,7 +736,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="444.78571"
        y="226.43362"
-       id="text3833-0-32"
+       id="label-station-syco-hq"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="444.78571"
@@ -652,7 +748,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="308.28806"
        y="181.72021"
-       id="text3833-0-6"
+       id="label-station-entertainment"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-4"
@@ -669,7 +765,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="353.5116"
        y="255.13139"
-       id="text3833-0-9"
+       id="label-station-spire"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-90"
@@ -681,7 +777,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="337.33557"
        y="302.09079"
-       id="text3833-0-5"
+       id="label-station-haven"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-6"
@@ -693,7 +789,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="369.78571"
        y="337.43362"
-       id="text3833-0-63"
+       id="label-station-neboo"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-71"
@@ -705,7 +801,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="384.87579"
        y="391.50198"
-       id="text3833-0-8"
+       id="label-station-iffy"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-93"
@@ -717,7 +813,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="354.06616"
        y="490.49695"
-       id="text3833-0-53"
+       id="label-station-dikiyobia"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-28"
@@ -729,7 +825,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="339.39484"
        y="545.04517"
-       id="text3833-0-4"
+       id="label-station-rockfall"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-98"
@@ -741,7 +837,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="324.26663"
        y="585.45129"
-       id="text3833-0-632"
+       id="label-station-dashite-bluff"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-1"
@@ -758,7 +854,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="366.44055"
        y="11.179543"
-       id="text3833-0-66"
+       id="label-station-deacon"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-03"
@@ -775,7 +871,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="374.52176"
        y="-54.985447"
-       id="text3833-0-0"
+       id="label-station-north-vandia"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-3"
@@ -792,7 +888,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="562.76801"
        y="226.03619"
-       id="text3833-0-24"
+       id="label-station-hyphean"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-21"
@@ -809,7 +905,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="572.51166"
        y="333.92328"
-       id="text3833-0-69"
+       id="label-station-dagobah"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-92"
@@ -826,7 +922,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="463.92023"
        y="454.13144"
-       id="text3833-0-49"
+       id="label-station-drypeak"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-5"
@@ -835,22 +931,10 @@
          style="font-size:10px">Drypeak</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="97.85714"
-       y="181.37997"
-       id="text4626"
-       sodipodi:linespacing="125%"
-       transform="translate(19.785715,-62.803509)"><tspan
-         sodipodi:role="line"
-         id="tspan4628"
-         x="97.85714"
-         y="181.37997" /></text>
-    <text
-       xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="108.35715"
        y="441.43362"
-       id="text3833-0-497"
+       id="label-junction-eta"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-8"
@@ -860,13 +944,13 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="112.85715"
+       x="114.03181"
        y="375.43362"
-       id="text3833-0-220"
+       id="label-station-honkwig"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-84"
-         x="112.85715"
+         x="114.03181"
          y="375.43362"
          style="font-size:10px">Honkwig</tspan></text>
     <text
@@ -874,7 +958,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="80.200424"
        y="489.3378"
-       id="text3833-0-35"
+       id="label-station-tentholm"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-54"
@@ -886,7 +970,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="78.357147"
        y="541.43365"
-       id="text3833-0-35-9"
+       id="label-station-whitewall"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-54-1"
@@ -898,7 +982,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="10.607143"
        y="576.93365"
-       id="text3833-0-35-3"
+       id="label-station-falconhurst"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-54-7"
@@ -910,7 +994,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="459.78571"
        y="16.433632"
-       id="text3833-0-35-5"
+       id="label-junction-zeta"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-54-3"
@@ -922,7 +1006,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="485.52301"
        y="188.11382"
-       id="text3833-0-32-7"
+       id="label-station-syco-raa"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="485.52301"
@@ -936,7 +1020,7 @@
          id="tspan3227">RAA</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-4-2"
+       id="marker-station-shaft"
        width="10"
        height="10"
        x="204.09032"
@@ -946,7 +1030,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="161.9977"
        y="321.87589"
-       id="text3833-0-220-6"
+       id="label-station-shaft"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="161.9977"
@@ -963,7 +1047,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="578.48468"
        y="27.260353"
-       id="text3833-0-66-8"
+       id="label-station-starfarer"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="578.48468"
@@ -977,7 +1061,7 @@
          id="tspan5062">Outpost</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-1-5-5"
+       id="marker-station-proving-grounds"
        width="10"
        height="10"
        x="530.58301"
@@ -987,7 +1071,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="485.45944"
        y="387.22812"
-       id="text3833-0-49-2"
+       id="label-station-proving-grounds"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-5-2"
@@ -1001,7 +1085,7 @@
          id="tspan5202">Grounds</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-4-2-3"
+       id="marker-station-tryon"
        width="10"
        height="10"
        x="562.19318"
@@ -1011,7 +1095,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="576.83606"
        y="482.14789"
-       id="text3833-0-49-8"
+       id="label-station-tryon"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-5-5"
@@ -1020,7 +1104,7 @@
          style="font-size:10px">Tryon</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-4-2-0"
+       id="marker-station-poniri-raa"
        width="10"
        height="10"
        x="-92.773483"
@@ -1030,7 +1114,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="-81.056488"
        y="472.45193"
-       id="text3833-0-35-9-5"
+       id="label-station-poniri-raa"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="-81.056488"
@@ -1042,7 +1126,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="-51.978855"
        y="531.61981"
-       id="text3833-0-35-9-5-2"
+       id="label-station-alderaan"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-54-1-0-6"
@@ -1051,21 +1135,21 @@
          style="font-size:10px">Alderaan</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-5-5"
+       id="marker-station-alderaan"
        width="10"
        height="10"
        x="-3.0899391"
        y="522.92755" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-4-2-0-2"
+       id="marker-station-poniri"
        width="10"
        height="10"
        x="-125.27348"
        y="462.957" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-4-2-0-9"
+       id="marker-station-gull"
        width="10"
        height="10"
        x="-157.77348"
@@ -1075,7 +1159,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="-126.28364"
        y="483.66513"
-       id="text3833-0-35-9-5-6"
+       id="label-station-poniri"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-54-1-0-2"
@@ -1087,7 +1171,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="-158.10271"
        y="483.24588"
-       id="text3833-0-35-9-5-7"
+       id="label-station-gull"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-54-1-0-3"
@@ -1100,26 +1184,27 @@
          style="font-size:10px"
          id="tspan5530">Island</tspan></text>
     <g
-       id="g3397"
-       transform="translate(-0.70710678,-8.4852813)">
+       id="group-title"
+       transform="translate(-0.70710678,-8.4852813)"
+       inkscape:label="">
       <text
          sodipodi:linespacing="125%"
-         id="text4540"
-         y="-1.9333059"
-         x="-51.810921"
-         style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="title"
+         y="-3.1079686"
+         x="81.509415"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            id="tspan4548"
-           y="-1.9333059"
-           x="-51.810921"
+           y="-3.1079686"
+           x="81.509415"
            sodipodi:role="line">The Refugian</tspan><tspan
-           y="48.066692"
-           x="-51.810921"
+           y="46.892029"
+           x="81.509415"
            sodipodi:role="line"
-           id="tspan4215" /></text>
+           id="tspan4215">Transit System</tspan></text>
       <text
          sodipodi:linespacing="125%"
-         id="text4898"
+         id="author"
          y="71.885902"
          x="-30.370401"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1130,7 +1215,7 @@
            sodipodi:role="line">by Arancaytar &amp; ADoS</tspan></text>
       <text
          sodipodi:linespacing="125%"
-         id="text4921"
+         id="date"
          y="120.92576"
          x="-2.5401883"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1141,7 +1226,7 @@
            sodipodi:role="line">As of 2013-03-20</tspan></text>
       <text
          sodipodi:linespacing="125%"
-         id="text5532"
+         id="scale-notice"
          y="95.478844"
          x="-24.046947"
          style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1151,49 +1236,38 @@
            x="-24.046947"
            id="tspan5534"
            sodipodi:role="line">Relative locations not to scale</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="-66.80365"
-         y="40.997662"
-         id="text3223"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3226"
-           x="-66.80365"
-           y="40.997662">Transit System</tspan></text>
     </g>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-7"
+       id="marker-station-rockfall"
        width="16.999727"
        height="9.9997272"
        x="403.70642"
        y="536.46667" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7"
+       id="marker-station-iffy"
        width="17.214304"
        height="10"
        x="403.57141"
        y="383.96741" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-5"
+       id="marker-station-spire"
        width="17.214304"
        height="9.7268372"
        x="403.57141"
        y="246.70679" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-8-2-7"
+       id="marker-station-starfarer"
        width="10"
        height="10"
        x="564.78571"
        y="22.641481" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-8-2"
+       id="marker-station-north-vandia"
        width="9.9999409"
        height="14.999941"
        x="409.2731"
@@ -1203,7 +1277,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="425.5687"
        y="166.2458"
-       id="text3833-0-3-0"
+       id="label-junction-syco"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-0-1"
@@ -1213,7 +1287,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#ff9955;stroke:#aa4400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783-4-04"
+       id="marker-unfinished-junction-tryon"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
@@ -1222,7 +1296,7 @@
        transform="matrix(0.58955223,0,0,0.58955223,511.1204,317.0164)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-4-2-39"
+       id="marker-station-trenton"
        width="10"
        height="10"
        x="231.47888"
@@ -1232,7 +1306,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="215.96025"
        y="191.23308"
-       id="text3833-0-220-6-0"
+       id="label-station-trenton"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="215.96025"
@@ -1241,17 +1315,17 @@
          id="tspan4995-4">Trenton</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-8-9-6"
+       id="marker-station-ephesos"
        width="10"
        height="10"
-       x="607.59985"
-       y="77.208092" />
+       x="607.8772"
+       y="77.312904" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="591.57977"
        y="70.472702"
-       id="text3833-0-22-3"
+       id="label-station-ephesos"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-2-3"
@@ -1259,15 +1333,23 @@
          y="70.472702"
          style="font-size:10px">Ephesos</tspan></text>
     <g
-       id="g3351"
+       id="group-legend"
        transform="translate(-69.296464,39.59798)">
+      <rect
+         y="85.222939"
+         x="-46.923138"
+         height="10"
+         width="10"
+         id="legend-marker-unfinished"
+         style="fill:#00ffff;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
-         id="text3833-0-7-3"
+         id="legend-label-stations"
          y="95.222908"
          x="-11.92314"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:label="#text3833-0-7-3"><tspan
            id="tspan4382-9"
            style="font-size:10px"
            y="95.222908"
@@ -1275,11 +1357,12 @@
            sodipodi:role="line">Stations</tspan></text>
       <text
          sodipodi:linespacing="125%"
-         id="text3833-0-7-3-9"
+         id="legend-label-junctions"
          y="115.22291"
          x="-11.92314"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:label="#legend-label-junctions"><tspan
            id="tspan4382-9-5"
            style="font-size:10px"
            y="115.22291"
@@ -1287,11 +1370,12 @@
            sodipodi:role="line">Junctions</tspan></text>
       <text
          sodipodi:linespacing="125%"
-         id="text3833-0-7-3-9-6"
+         id="legend-label-sky"
          y="135.22292"
          x="-11.92314"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:label="#text3833-0-7-3-9-6"><tspan
            id="tspan4382-9-5-8"
            style="font-size:10px"
            y="135.22292"
@@ -1302,7 +1386,7 @@
          x="-26.869841"
          height="10"
          width="10"
-         id="rect3925-7-5-4"
+         id="legend-marker-station"
          style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          transform="matrix(0.58955223,0,0,0.58955223,-78.298409,-9.08016)"
@@ -1311,14 +1395,15 @@
          sodipodi:rx="8.5714283"
          sodipodi:cy="202.36218"
          sodipodi:cx="95.714287"
-         id="path3783-5-0"
-         style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="legend-marker-junction"
+         style="fill:#ff0000;stroke:#800000;stroke-width:1.69620256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          sodipodi:type="arc" />
       <path
          inkscape:connector-curvature="0"
-         id="path4677"
+         id="legend-marker-sky"
          d="m -26.92314,130.22291 10,0"
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:label="#legend-marker-sky" />
       <path
          transform="matrix(0.58955223,0,0,0.58955223,-98.351714,-9.080138)"
          d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
@@ -1326,28 +1411,23 @@
          sodipodi:rx="8.5714283"
          sodipodi:cy="202.36218"
          sodipodi:cx="95.714287"
-         id="path3783-4-0"
-         style="fill:#ff9955;stroke:#aa4400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="legend-marker-junction-unfinished"
+         style="fill:#ff9955;stroke:#aa4400;stroke-width:1.69620256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          sodipodi:type="arc" />
-      <rect
-         y="85.222939"
-         x="-46.923138"
-         height="10"
-         width="10"
-         id="rect3925-0-6-6-9"
-         style="fill:#00ffff;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          inkscape:connector-curvature="0"
-         id="path4677-9"
+         id="legend-marker-sky-unfinished"
          d="m -46.976447,130.22293 9.999997,0"
-         style="fill:none;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:label="#legend-marker-sky-unfinished" />
       <text
          sodipodi:linespacing="125%"
-         id="text3833-0-7-3-9-6-3"
+         id="legend-label-unfinished"
          y="194.2229"
          x="-48.184738"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:label="#legend-label-unfinished"><tspan
            id="tspan4933"
            style="font-size:6px;font-style:italic;-inkscape-font-specification:Sans Italic"
            y="194.2229"
@@ -1355,16 +1435,18 @@
            sodipodi:role="line">Unfinished Extensions &amp; Walkways</tspan></text>
       <path
          inkscape:connector-curvature="0"
-         id="path4677-1"
+         id="legend-marker-nether"
          d="m -26.92315,145.22291 10,0"
-         style="fill:none;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:label="#legend-marker-nether" />
       <text
          sodipodi:linespacing="125%"
-         id="text3833-0-7-3-9-6-30"
+         id="legend-label-nether"
          y="150.2229"
          x="-11.92314"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:label="#legend-label-nether"><tspan
            id="tspan4382-9-5-8-0"
            style="font-size:10px"
            y="150.2229"
@@ -1372,16 +1454,17 @@
            sodipodi:role="line">Nether Rail</tspan></text>
       <path
          inkscape:connector-curvature="0"
-         id="path4677-1-9"
+         id="legend-marker-teleport"
          d="m -26.92315,172.97291 10,0"
          style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
       <text
          sodipodi:linespacing="125%"
-         id="text3833-0-7-3-9-6-30-2"
+         id="legend-label-teleport"
          y="177.9729"
          x="-11.92314"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:label="#legend-label-teleport"><tspan
            id="tspan4382-9-5-8-0-9"
            style="font-size:10px"
            y="177.9729"
@@ -1389,21 +1472,24 @@
            sodipodi:role="line">Teleport</tspan></text>
       <path
          inkscape:connector-curvature="0"
-         id="path4677-9-6"
+         id="legend-marker-nether-unfinished"
          d="m -46.976449,145.22293 9.999999,0"
-         style="fill:none;stroke:#eeaaff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#eeaaff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:label="#legend-marker-nether-unfinished" />
       <path
          inkscape:connector-curvature="0"
-         id="path4677-1-5"
+         id="legend-marker-sea"
          d="m -27.073371,159.41165 10,0"
-         style="fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:label="#legend-marker-sea" />
       <text
          sodipodi:linespacing="125%"
-         id="text3833-0-7-3-9-6-30-7"
+         id="legend-label-sea"
          y="164.41164"
          x="-12.073359"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:label="#legend-label-sea"><tspan
            id="tspan4382-9-5-8-0-6"
            style="font-size:10px"
            y="164.41164"
@@ -1411,33 +1497,35 @@
            sodipodi:role="line">Sea Rail</tspan></text>
       <path
          inkscape:connector-curvature="0"
-         id="path4677-9-6-4"
+         id="legend-marker-sea-unfinished"
          d="m -47.12667,159.41167 9.999999,0"
-         style="fill:#80b3ff;stroke:#80b3ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#80b3ff;stroke:#80b3ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:label="#legend-marker-sea-unfinished" />
       <path
          style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 48,196.98712 19,0 0,107 90,0 0,10 c -35.35078,0 -75.702052,0 -109,0 z"
-         id="path4397"
+         id="legend-frame-unfinished"
          inkscape:connector-curvature="0"
          transform="translate(-98.977016,-117.15149)"
-         sodipodi:nodetypes="ccccccc" />
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="#legend-frame-unfinished" />
     </g>
     <path
        sodipodi:type="arc"
        style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3783-2-0"
+       id="marker-junction-iota"
        sodipodi:cx="95.714287"
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
        d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
-       transform="matrix(0.58955223,0,0,0.58955223,394.28571,-51.369472)" />
+       transform="matrix(0.58955223,0,0,0.58955223,394.28571,-51.369476)" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="463.94336"
        y="99.2873"
-       id="text3833-0-22-0"
+       id="label-station-laputa"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-2-2"
@@ -1449,7 +1537,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="375.52948"
        y="460.13718"
-       id="text3833-0-32-7-1"
+       id="label-station-alpha-raa"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="375.52948"
@@ -1464,20 +1552,26 @@
     <path
        style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0"
        d="m 555.16721,521.51365 -136.89794,0 0,103.7506 -107.14229,0 0,48.02996 -136.05427,0"
-       id="path3233"
+       id="path-tele-falconhurst"
        inkscape:connector-curvature="0"
        transform="translate(-168.27348,-77.553512)"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccc">
+      <desc
+         id="desc4057">This is a teleport link between Alpha RAA and Falconhurst RAA.</desc>
+      <title
+         id="title4055">Alpha Falconhurst Link</title>
+    </path>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-2-4-2"
+       id="marker-station-falconhurst-raa"
        width="10"
        height="19.875"
        x="-1.3853874"
-       y="581.32831" />
+       y="581.32831"
+       inkscape:label="#marker-station-falconhurst-raa" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-2-4-2-5"
+       id="marker-station-alpha-raa"
        width="10"
        height="19.875"
        x="381.52704"
@@ -1487,7 +1581,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="-6.8372459"
        y="614.21716"
-       id="text3833-0-32-7-1-5"
+       id="label-station-falconhurst-raa"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="-6.8372459"
@@ -1504,7 +1598,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="482.72458"
        y="221.35451"
-       id="text3833-0-3-0-7"
+       id="label-area-syco"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-0-1-6"
@@ -1521,7 +1615,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="322.65329"
        y="390.41162"
-       id="text3833-0-63-8"
+       id="label-area-mane-settlement"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-71-6"
@@ -1535,7 +1629,7 @@
          id="tspan4130">Settlement</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-7-2-4-9"
+       id="marker-station-swhump"
        width="10"
        height="10"
        x="94.237663"
@@ -1545,7 +1639,7 @@
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="82.929451"
        y="577.64075"
-       id="text3833-0-35-3-6"
+       id="label-station-swhump"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-54-7-3"
@@ -1554,17 +1648,17 @@
          style="font-size:10px">Swhump</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-8-2-2-1"
+       id="marker-station-canton"
        width="10"
        height="10"
-       x="687.45227"
-       y="186.43463" />
+       x="686.92194"
+       y="185.72752" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="674.46313"
        y="183.23073"
-       id="text3833-8-4"
+       id="label-station-canton"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-0-2"
@@ -1573,17 +1667,17 @@
          style="font-size:10px">Canton</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-1-5-51"
+       id="marker-station-nether-fortress"
        width="10"
        height="10"
-       x="668.00684"
-       y="281.18695" />
+       x="667.83002"
+       y="281.04013" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="639.30347"
        y="302.46609"
-       id="text3833-1-2"
+       id="label-station-nether-fortress"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-1-8"
@@ -1591,15 +1685,15 @@
          y="302.46609"
          style="font-size:10px">Nether Fortress</tspan></text>
     <rect
-       style="fill:#00ff00;stroke:#008000;stroke-width:0.96969694;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-9-8"
-       width="15.030303"
-       height="15.030303"
-       x="447.33636"
-       y="199.16847" />
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="marker-station-syco-hq"
+       width="15.000118"
+       height="15.000118"
+       x="447.33539"
+       y="199.19966" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3925-9-83"
+       id="marker-station-hyphean"
        width="10"
        height="15"
        x="564.9765"
