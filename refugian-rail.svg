@@ -120,6 +120,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(168.27348,77.553512)">
+    <rect
+       style="fill:#00ff00;fill-opacity:0.28019325;stroke:#00ff00;stroke-width:1.92333925;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5544-8"
+       width="107.40677"
+       height="165.40678"
+       x="321.89813"
+       y="239.85524" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.52073908;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5544-4-4"
+       width="57.095249"
+       height="22.809381"
+       x="321.67889"
+       y="382.27893" />
     <path
        style="fill:none;stroke:url(#linearGradient6570);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 627.45989,159.86641 0,-14.3793 -8.47213,1e-5"
@@ -1492,6 +1506,23 @@
          y="626.71716"
          style="font-size:10px"
          id="tspan3205">RAA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="322.65329"
+       y="390.41162"
+       id="text3833-0-63-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835-59-71-6"
+         x="322.65329"
+         y="390.41162"
+         style="font-size:10px">Mane</tspan><tspan
+         sodipodi:role="line"
+         x="322.65329"
+         y="402.91162"
+         style="font-size:10px"
+         id="tspan4130">Settlement</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3925-8-2-2-1"
