@@ -1334,24 +1334,17 @@
          id="path4677-9"
          d="m -46.976447,130.22293 9.999997,0"
          style="fill:none;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <rect
-         y="80.222939"
-         x="-49.976444"
-         height="102.99996"
-         width="16"
-         id="rect4718"
-         style="fill:none;stroke:#999999;stroke-width:1.22474468;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text3833-0-7-3-9-6-3"
          y="194.2229"
-         x="-51.923145"
+         x="-48.184738"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            id="tspan4933"
            style="font-size:6px;font-style:italic;-inkscape-font-specification:Sans Italic"
            y="194.2229"
-           x="-51.923145"
+           x="-48.184738"
            sodipodi:role="line">Unfinished Extensions &amp; Walkways</tspan></text>
       <path
          inkscape:connector-curvature="0"
@@ -1414,6 +1407,13 @@
          id="path4677-9-6-4"
          d="m -47.12667,159.41167 9.999999,0"
          style="fill:#80b3ff;stroke:#80b3ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 48,196.98712 19,0 0,107 90,0 0,10 c -35.35078,0 -75.702052,0 -109,0 z"
+         id="path4397"
+         inkscape:connector-curvature="0"
+         transform="translate(-98.977016,-117.15149)"
+         sodipodi:nodetypes="ccccccc" />
     </g>
     <path
        sodipodi:type="arc"
