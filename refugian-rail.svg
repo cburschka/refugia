@@ -1228,14 +1228,14 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
       <text
          sodipodi:linespacing="125%"
          id="author"
-         y="71.885902"
-         x="-30.370401"
+         y="76.4189"
+         x="-39.620403"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="71.885902"
-           x="-30.370401"
+           y="76.4189"
+           x="-39.620403"
            id="tspan4900"
-           sodipodi:role="line">by Arancaytar &amp; ADoS</tspan></text>
+           sodipodi:role="line">Designed by Arancaytar</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="date"
@@ -1246,7 +1246,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
            y="120.92576"
            x="-2.5401883"
            id="tspan4923"
-           sodipodi:role="line">As of 2013-03-20</tspan></text>
+           sodipodi:role="line">As of 2013-03-22</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="scale-notice"
