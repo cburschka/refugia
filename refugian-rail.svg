@@ -193,7 +193,7 @@ It connects to the Circle Line at Epsilon, and Honkwig Line at Eta.</desc>
        width="57.095249"
        height="22.809381"
        x="321.67889"
-       y="382.27893" />
+       y="348.27893" />
     <rect
        style="fill:#00ff00;fill-opacity:0.28019325000000000;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="area-syco"
@@ -822,15 +822,15 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="384.87579"
+       x="344.87579"
        y="391.50198"
        id="label-station-iffy"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3835-59-93"
-         x="384.87579"
+         x="344.87579"
          y="391.50198"
-         style="font-size:10px">Iffy</tspan></text>
+         style="font-size:10px"
+         id="tspan3292">RoK ML HQ</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1846,17 +1846,17 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="322.65329"
-       y="390.41162"
+       y="356.41162"
        id="label-area-mane-settlement"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-71-6"
          x="322.65329"
-         y="390.41162"
+         y="356.41162"
          style="font-size:10px">Mane</tspan><tspan
          sodipodi:role="line"
          x="322.65329"
-         y="402.91162"
+         y="368.91162"
          style="font-size:10px"
          id="tspan4130">Settlement</tspan></text>
     <rect
