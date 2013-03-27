@@ -138,21 +138,21 @@
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
-       id="path4277"
-       d="m 409.78571,334.89289 -430.27387,0 0,174.25131 -67.285323,0 0,347.29452"
+       id="path-tele-exile-neboo"
+       d="m 409.78571,334.89289 -417.02387,0 0,174.25131 -80.535323,0 0,347.29452"
        style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0">
       <desc
-         id="desc4279">This is a teleport link between Neboo and Alderaan.</desc>
+         id="desc4279">This is a teleport link between Neboo and NB14 Titanium.</desc>
       <title
-         id="title4281">Neboo Alderaan Link</title>
+         id="title4281">Neboo Exile Link</title>
     </path>
     <path
        style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0"
-       d="m 472.94969,404.23714 -176.24341,0 0,186.4939 -233.753561,0"
+       d="m 472.94969,404.23714 -407.875651,0 0,186.49392"
        id="path-tele-alderaan"
        inkscape:connector-curvature="0"
        transform="translate(-63.163979,-62.803509)"
-       sodipodi:nodetypes="cccc">
+       sodipodi:nodetypes="ccc">
       <desc
          id="desc4049">This is a teleport link between Neboo and Alderaan.</desc>
       <title
@@ -250,7 +250,7 @@ It connects to the Iota Transfer at Laputa.</desc>
        transform="translate(-73.163979,-72.803509)" />
     <path
        style="fill:none;stroke:#eeaaff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 479.94969,474.23714 -173.24621,0 0,128 -107.77665,0"
+       d="m 479.94969,342.73714 -195.24621,0 0,259.5 -85.77665,0"
        id="path-unfinished-nether-whitewall"
        inkscape:connector-curvature="0"
        transform="translate(-63.163979,-62.803509)"
@@ -263,7 +263,7 @@ It connects to the Iota Transfer at Laputa.</desc>
        transform="translate(-63.163979,-62.803509)" />
     <path
        style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0"
-       d="m -24.407453,529.76227 0,-191.02513 567.458673,0 0,-74.5"
+       d="m -24.407453,529.76227 0,-196.52513 567.458673,0 0,-69"
        id="path-tele-poniri"
        inkscape:connector-curvature="0"
        transform="translate(-63.163979,-62.803509)"
@@ -324,7 +324,7 @@ It connects to the Western Line at Eta.</desc>
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 450.71428,14.869989 -36.44075,0"
+       d="m 450.71428,11.619993 -36.44075,0"
        id="path-sky-deacon"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc">
@@ -542,14 +542,14 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="190.04393"
-       y="452.17715"
+       x="180.04393"
+       y="451.17715"
        id="label-junction-epsilon"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59"
-         x="190.04393"
-         y="452.17715"
+         x="180.04393"
+         y="451.17715"
          style="font-size:10px">Epsilon</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -611,8 +611,8 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
-       transform="matrix(0.58955223,0,0,0.58955223,394.28571,-104.43309)" />
+       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       transform="matrix(0.58955223,0,0,0.58955223,394.28571,-107.68308)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="marker-station-syco-raa"
@@ -1010,15 +1010,18 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
          y="576.93365"
          style="font-size:10px">Falconhurst</tspan></text>
     <path
-       sodipodi:nodetypes="ccccc"
+       sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
-       id="path4255"
-       d="m 412.52353,6.82901 327.20299,0 0.70711,816 -585.77618,0 0.28899,38.79385"
-       style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0">
+       id="path-tele-exile-deacon"
+       d="m 154.94644,861.62286 -0.28899,-38.79385 97.77618,0 -0.70711,-719.83348 162.54701,0 0,-91.375537"
+       style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0;marker-mid:none"
+       inkscape:label="#path-tele-exile-deacon">
       <desc
-         id="desc4257">This is a teleport link between Syco RAA and Poniri RAA.</desc>
+         id="desc4257"
+         style="marker-mid:none">This is a teleport link between Deacon Outpost and Geshud Enkos.</desc>
       <title
-         id="title4259">Syco Poniri Link</title>
+         id="title4259"
+         style="marker-mid:none">Deacon Exile Link</title>
     </path>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1030,14 +1033,14 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="459.78571"
-       y="16.433632"
+       x="458.59601"
+       y="11.97355"
        id="label-junction-zeta"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-54-3"
-         x="459.78571"
-         y="16.433632"
+         x="458.59601"
+         y="11.97355"
          style="font-size:10px">Zeta</tspan></text>
     <text
        xml:space="preserve"
@@ -1066,18 +1069,18 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="161.9977"
-       y="321.87589"
+       x="160.9977"
+       y="314.37589"
        id="label-station-shaft"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="161.9977"
-         y="321.87589"
+         x="160.9977"
+         y="314.37589"
          style="font-size:10px"
          id="tspan4995">Massive</tspan><tspan
          sodipodi:role="line"
-         x="161.9977"
-         y="334.37589"
+         x="160.9977"
+         y="326.87589"
          style="font-size:10px"
          id="tspan3215">Shaft</tspan></text>
     <text
@@ -1337,18 +1340,18 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        id="marker-station-trenton"
        width="10"
        height="10"
-       x="231.47888"
+       x="220.97888"
        y="198.21933" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="215.96025"
-       y="191.23308"
+       x="192.46025"
+       y="192.23308"
        id="label-station-trenton"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="215.96025"
-         y="191.23308"
+         x="192.46025"
+         y="192.23308"
          style="font-size:10px"
          id="tspan4995-4">Trenton</tspan></text>
     <rect
@@ -1371,7 +1374,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
          y="70.472702"
          style="font-size:10px">Ephesos</tspan></text>
     <g
-       id="g4352">
+       id="group-legend">
       <rect
          y="111.2975"
          x="-116.2196"
@@ -1688,12 +1691,12 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
         </g>
       </g>
       <text
-         inkscape:label="#legend-label-teleport"
+         inkscape:label="#legend-label-syco"
          xml:space="preserve"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="-81.219604"
          y="230.15666"
-         id="text3430"
+         id="legend-label-syco"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            x="-81.219604"
@@ -1702,12 +1705,12 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
            id="tspan3432">Syco</tspan></text>
       <text
          sodipodi:linespacing="125%"
-         id="text3434"
+         id="legend-label-syco-mini"
          y="244.45476"
          x="-81.219604"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"
-         inkscape:label="#legend-label-teleport"><tspan
+         inkscape:label="#legend-label-syco-mini"><tspan
            id="tspan3436"
            style="font-size:10px"
            y="244.45476"
@@ -1723,18 +1726,18 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
          height="743.98712"
          style="opacity:0.5" />
       <path
-         inkscape:label="#legend-marker-nether"
+         inkscape:label="#legend-marker-exile"
          style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m -96.219614,198.23681 10,0"
-         id="path3455"
+         id="legend-marker-exile"
          inkscape:connector-curvature="0" />
       <text
-         inkscape:label="#legend-label-nether"
+         inkscape:label="#legend-label-exile"
          xml:space="preserve"
          style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="-81.219604"
          y="203.2368"
-         id="text3457"
+         id="legend-label-exile"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            x="-81.219604"
@@ -1742,25 +1745,25 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
            style="font-size:10px"
            id="tspan3459">Exile Express</tspan></text>
       <path
-         inkscape:label="#legend-marker-nether-unfinished"
+         inkscape:label="#legend-marker-exile-unfinished"
          style="fill:none;stroke:#e58989;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m -116.27291,198.23683 10,0"
-         id="path3461"
+         id="legend-marker-exile-unfinished"
          inkscape:connector-curvature="0" />
     </g>
     <path
        inkscape:connector-curvature="0"
-       id="path4412"
+       id="path-exile-unfinished"
        d="m 277.53679,799.5405 0,66.46804"
        style="fill:none;stroke:#e58989;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:label="#legend-marker-nether"
+       inkscape:label="#path-exile-unfinished"
        sodipodi:nodetypes="cc" />
     <path
        sodipodi:nodetypes="cc"
-       inkscape:label="#legend-marker-nether"
+       inkscape:label="#path-exile"
        style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 154.65745,866.00854 122.87934,0"
-       id="path4283"
+       id="path-exile"
        inkscape:connector-curvature="0" />
     <use
        height="743.98712"
@@ -1770,7 +1773,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        xlink:href="#legend-marker-syco"
        y="0"
        x="0"
-       inkscape:label="#use4888" />
+       inkscape:label="#marker-syco-syco-hq" />
     <use
        height="743.98712"
        width="894.50568"
@@ -1779,7 +1782,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        xlink:href="#legend-marker-syco-mini"
        y="0"
        x="0"
-       inkscape:label="#use4890" />
+       inkscape:label="#marker-mini-syco-stadium" />
     <use
        height="743.98712"
        width="894.50568"
@@ -1837,7 +1840,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
          id="tspan3207">RAA</tspan></text>
     <path
        style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0"
-       d="m 555.16721,521.51365 -136.89794,0 0,103.7506 -107.14229,0 0,48.02996 -136.05427,0"
+       d="m 555.16721,521.51365 -157.39794,0 0,103.7506 -86.64229,0 0,48.02996 -136.05427,0"
        id="path-tele-falconhurst"
        inkscape:connector-curvature="0"
        transform="translate(-168.27348,-77.553512)"
@@ -1992,7 +1995,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        transform="translate(675.28698,-28.284271)"
        width="894.50568"
        height="743.98712"
-       inkscape:label="#use4948" />
+       inkscape:label="#marker-mini-syco-hyphean" />
     <use
        x="0"
        y="0"
@@ -2001,7 +2004,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        transform="translate(705.69257,101.11627)"
        width="894.50568"
        height="743.98712"
-       inkscape:label="#use4950" />
+       inkscape:label="#marker-mini-syco-dagobah" />
     <use
        x="0"
        y="0"
@@ -2010,7 +2013,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        transform="translate(575.58492,179.60512)"
        width="894.50568"
        height="743.98712"
-       inkscape:label="#use4952" />
+       inkscape:label="#marker-mini-syco-drypeak" />
     <use
        x="0"
        y="0"
@@ -2019,7 +2022,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        transform="translate(211.07138,143.54268)"
        width="894.50568"
        height="743.98712"
-       inkscape:label="#use5161" />
+       inkscape:label="#marker-mini-syco-honkwig" />
     <use
        x="0"
        y="0"
@@ -2028,7 +2031,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        transform="translate(458.9123,180.66579)"
        width="894.50568"
        height="743.98712"
-       inkscape:label="#use5163" />
+       inkscape:label="#marker-mini-syco-alpha" />
     <use
        x="0"
        y="0"
@@ -2037,7 +2040,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        transform="translate(490.19153,79.645235)"
        width="894.50568"
        height="743.98712"
-       inkscape:label="#use5165" />
+       inkscape:label="#marker-mini-syco-neboo" />
     <use
        x="0"
        y="0"
@@ -2046,17 +2049,17 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        transform="translate(701.44994,251.02291)"
        width="894.50568"
        height="743.98712"
-       inkscape:label="#use5167" />
+       inkscape:label="#marker-syco-tryon" />
     <rect
        y="852.74786"
        x="149.94644"
        height="17.75"
        width="10"
-       id="rect4261"
+       id="marker-station-geshud-enkos"
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        sodipodi:linespacing="125%"
-       id="text4263"
+       id="label-station-geshud-enkos"
        y="860.93365"
        x="81.220276"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2070,7 +2073,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        x="0"
        y="0"
        xlink:href="#legend-marker-syco"
-       id="use4267"
+       id="marker-syco-geshud-enkos"
        transform="translate(164.02871,628.77019)"
        width="894.50568"
        height="743.98712" />
@@ -2079,11 +2082,11 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        x="-92.773483"
        height="10"
        width="10"
-       id="rect4269"
+       id="marker-station-titanium"
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        sodipodi:linespacing="125%"
-       id="text4271"
+       id="label-station-titanium"
        y="860.93365"
        x="-81.056488"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -2097,13 +2100,13 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        x="0"
        y="0"
        xlink:href="#legend-marker-syco-mini"
-       id="use4275"
+       id="marker-mini-syco-titanium"
        transform="translate(-11.935028,614.52019)"
        width="894.50568"
        height="743.98712" />
     <text
        sodipodi:linespacing="125%"
-       id="text4287"
+       id="label-junction-corsair"
        y="881.53784"
        x="258.49039"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2120,7 +2123,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:rx="8.5714283"
        sodipodi:cy="202.36218"
        sodipodi:cx="95.714287"
-       id="path4350"
+       id="marker-unfinished-junction-corsair"
        style="fill:#ff9955;stroke:#aa4400;stroke-width:1.69620252;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:type="arc" />
     <rect
@@ -2128,14 +2131,14 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        x="272.5368"
        height="10"
        width="10"
-       id="rect4414"
+       id="marker-unfinished-smelting"
        style="fill:#00ffff;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="288.5368"
        y="804.54053"
-       id="text4416"
+       id="label-station-smelting"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4418"
@@ -2143,14 +2146,14 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
          y="804.54053"
          style="font-size:10px">Syco Smelting Division</tspan></text>
     <g
-       id="g4464"
+       id="group-label-exile"
        transform="translate(229.5,7)">
       <text
          xml:space="preserve"
          style="font-size:14px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="191.10266"
          y="736.63177"
-         id="scale-notice-3"
+         id="label-exile"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan5534-1"
@@ -2158,12 +2161,12 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
            y="736.63177"
            style="font-style:italic;text-align:end;text-anchor:end;-inkscape-font-specification:Sans Italic">Exile Express Network</tspan></text>
       <text
-         inkscape:label="#legend-label-unfinished"
+         inkscape:label="#label-exile-warning"
          xml:space="preserve"
          style="font-size:20px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="191.10266"
          y="744.80487"
-         id="legend-label-unfinished-6"
+         id="label-exile-warning"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            x="191.10266"
@@ -2173,7 +2176,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
     </g>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:100;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0"
-       id="rect4462"
+       id="box-region-exile"
        width="545"
        height="155.5"
        x="48"
