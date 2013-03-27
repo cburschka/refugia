@@ -77,8 +77,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="288.46059"
-     inkscape:cy="191.21623"
+     inkscape:cx="554.41856"
+     inkscape:cy="249.66672"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -110,14 +110,6 @@
        snapvisiblegridlinesonly="true"
        originx="188.0592px"
        originy="9.9999061px" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="322.93093,73.830902"
-       id="guide5122" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="445.81027,35.704682"
-       id="guide5124" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -447,7 +439,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,352.14285,83.773404)" />
     <path
        sodipodi:type="arc"
@@ -457,7 +449,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,352.14285,316.86605)" />
     <path
        sodipodi:type="arc"
@@ -467,7 +459,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,479.7858,83.773404)" />
     <path
        sodipodi:type="arc"
@@ -477,7 +469,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,479.15445,317.34482)" />
     <path
        sodipodi:type="arc"
@@ -487,7 +479,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,152.66175,317.34482)" />
     <text
        xml:space="preserve"
@@ -545,7 +537,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,479.15445,199.84482)" />
     <text
        xml:space="preserve"
@@ -595,7 +587,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,394.28571,53.211404)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -619,7 +611,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,394.28571,-104.43309)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -643,7 +635,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,352.14285,469.39654)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -688,7 +680,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,79.021079,317.34482)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1338,7 +1330,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,511.1204,317.0164)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1435,7 +1427,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
          style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          transform="matrix(0.58955223,0,0,0.58955223,-147.59487,16.994403)"
-         d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+         d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
          sodipodi:ry="8.5714283"
          sodipodi:rx="8.5714283"
          sodipodi:cy="202.36218"
@@ -1451,7 +1443,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
          inkscape:label="#legend-marker-sky" />
       <path
          transform="matrix(0.58955223,0,0,0.58955223,-167.64818,16.994425)"
-         d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+         d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
          sodipodi:ry="8.5714283"
          sodipodi:rx="8.5714283"
          sodipodi:cy="202.36218"
@@ -1760,7 +1752,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        inkscape:connector-curvature="0"
        id="path4412"
        d="m 277.53679,799.5405 0,66.46804"
-       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#e58989;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:label="#legend-marker-nether"
        sodipodi:nodetypes="cc" />
     <path
@@ -1812,7 +1804,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,394.28571,-51.369476)" />
     <text
        xml:space="preserve"
@@ -2123,7 +2115,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
          sodipodi:role="line">Corsair</tspan></text>
     <path
        transform="matrix(0.58955223,0,0,0.58955223,221.10822,746.70546)"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        sodipodi:ry="8.5714283"
        sodipodi:rx="8.5714283"
        sodipodi:cy="202.36218"
