@@ -76,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="406.60181"
-     inkscape:cy="173.34555"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="484.92885"
+     inkscape:cy="214.04301"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1755,7 +1755,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        inkscape:connector-curvature="0"
        id="path-exile-unfinished"
        d="m 277.53679,799.5405 0,66.46804"
-       style="fill:none;stroke:#e58989;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:label="#path-exile-unfinished"
        sodipodi:nodetypes="cc" />
     <path
@@ -2126,13 +2126,6 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        id="marker-unfinished-junction-corsair"
        style="fill:#ff9955;stroke:#aa4400;stroke-width:1.69620252;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:type="arc" />
-    <rect
-       y="794.54053"
-       x="272.5368"
-       height="10"
-       width="10"
-       id="marker-unfinished-smelting"
-       style="fill:#00ffff;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2182,5 +2175,12 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        x="48"
        y="808.57397"
        transform="translate(-168.27348,-77.914032)" />
+    <rect
+       y="794.54053"
+       x="272.5368"
+       height="10"
+       width="10"
+       id="rect3322"
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>
