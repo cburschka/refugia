@@ -76,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="554.41856"
-     inkscape:cy="249.66672"
+     inkscape:zoom="2"
+     inkscape:cx="406.60181"
+     inkscape:cy="173.34555"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -611,7 +611,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
        transform="matrix(0.58955223,0,0,0.58955223,394.28571,-107.68308)" />
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -2099,9 +2099,9 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
     <use
        x="0"
        y="0"
-       xlink:href="#legend-marker-syco-mini"
+       xlink:href="#legend-marker-syco"
        id="marker-mini-syco-titanium"
-       transform="translate(-11.935028,614.52019)"
+       transform="translate(-11.935028,629.02019)"
        width="894.50568"
        height="743.98712" />
     <text
