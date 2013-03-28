@@ -1752,17 +1752,10 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
          inkscape:connector-curvature="0" />
     </g>
     <path
-       inkscape:connector-curvature="0"
-       id="path-exile-unfinished"
-       d="m 277.53679,799.5405 0,66.46804"
-       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:label="#path-exile-unfinished"
-       sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="cc"
+       sodipodi:nodetypes="ccc"
        inkscape:label="#path-exile"
        style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 154.65745,866.00854 122.87934,0"
+       d="m 154.65745,866.00854 122.87934,0 1e-5,-66.46801"
        id="path-exile"
        inkscape:connector-curvature="0" />
     <use
@@ -2180,7 +2173,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        x="272.5368"
        height="10"
        width="10"
-       id="rect3322"
+       id="marker-station-smelting"
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>
