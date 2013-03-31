@@ -76,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="484.92885"
-     inkscape:cy="214.04301"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="468.72443"
+     inkscape:cy="111.98061"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2130,7 +2130,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
          id="tspan4418"
          x="288.5368"
          y="804.54053"
-         style="font-size:10px">Syco Smelting Division</tspan></text>
+         style="font-size:10px">Thwackslap</tspan></text>
     <g
        id="group-label-exile"
        transform="translate(229.5,7)">
@@ -2175,5 +2175,24 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        width="10"
        id="marker-station-smelting"
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3321"
+       y="838.54053"
+       x="288.5368"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:10px"
+         y="838.54053"
+         x="288.5368"
+         id="tspan3323"
+         sodipodi:role="line">Syco Smelting Division</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3325"
+       width="10"
+       height="10"
+       x="272.5368"
+       y="828.54053" />
   </g>
 </svg>
