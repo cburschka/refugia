@@ -76,11 +76,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="468.72443"
-     inkscape:cy="776.66097"
+     inkscape:zoom="1"
+     inkscape:cx="526.53644"
+     inkscape:cy="437.06367"
      inkscape:document-units="px"
-     inkscape:current-layer="group-title"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:object-nodes="true"
@@ -2001,12 +2001,12 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
     <use
        x="0"
        y="0"
-       xlink:href="#legend-marker-syco-mini"
-       id="marker-mini-syco-drypeak"
-       transform="translate(575.58492,179.60512)"
+       xlink:href="#legend-marker-syco"
+       id="marker-syco-drypeak"
+       transform="translate(575.58492,195.07308)"
        width="894.50568"
        height="743.98712"
-       inkscape:label="#marker-mini-syco-drypeak" />
+       inkscape:label="#marker-syco-drypeak" />
     <use
        x="0"
        y="0"
