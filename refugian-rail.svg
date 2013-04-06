@@ -76,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="526.53644"
-     inkscape:cy="437.06367"
+     inkscape:zoom="2"
+     inkscape:cx="748.21225"
+     inkscape:cy="595.96958"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -366,19 +366,6 @@ It connects to the Circle Line at Syco HQ, the Stadium Line at Syco Junction, th
     </path>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 535.58302,319.1479 75,0"
-       id="path-sky-dagobah"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc">
-      <desc
-         id="desc3257">This line connects Delta to Dagobah Temple.
-
-It connects to the Circle Line at Delta.</desc>
-      <title
-         id="title3255">Dagobah Line</title>
-    </path>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 408.57142,203.07648 0,385.62314 -35.59737,0"
        id="path-sky-meridian"
        inkscape:connector-curvature="0"
@@ -463,16 +450,6 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        transform="matrix(0.58955223,0,0,0.58955223,479.7858,83.773404)" />
     <path
        sodipodi:type="arc"
-       style="fill:#ff9955;stroke:#aa4400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="marker-unfinished-junction-circle-eastern"
-       sodipodi:cx="95.714287"
-       sodipodi:cy="202.36218"
-       sodipodi:rx="8.5714283"
-       sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
-       transform="matrix(0.58955223,0,0,0.58955223,479.15445,317.34482)" />
-    <path
-       sodipodi:type="arc"
        style="fill:#ff0000;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="marker-junction-epsilon"
        sodipodi:cx="95.714287"
@@ -520,14 +497,14 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="501.01013"
-       y="322.0235"
+       x="540.63379"
+       y="427.70551"
        id="label-junction-delta"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-1"
-         x="501.01013"
-         y="322.0235"
+         x="540.63379"
+         y="427.70551"
          style="font-size:10px">Delta</tspan></text>
     <path
        sodipodi:type="arc"
@@ -537,8 +514,8 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        sodipodi:cy="202.36218"
        sodipodi:rx="8.5714283"
        sodipodi:ry="8.5714283"
-       d="m 104.28572,202.36218 c 0,4.73387 -3.83756,8.57143 -8.571433,8.57143 -4.733869,0 -8.571428,-3.83756 -8.571428,-8.57143 0,-4.73387 3.837559,-8.57143 8.571428,-8.57143 4.733873,0 8.571433,3.83756 8.571433,8.57143 z"
-       transform="matrix(0.58955223,0,0,0.58955223,479.15445,199.84482)" />
+       d="m 104.28572,202.36218 a 8.5714283,8.5714283 0 1 1 -17.142861,0 8.5714283,8.5714283 0 1 1 17.142861,0 z"
+       transform="matrix(0.58955223,0,0,0.58955223,479.7858,317.34482)" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -577,7 +554,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        id="marker-station-dagobah"
        width="10"
        height="10"
-       x="605.58301"
+       x="530.58301"
        y="314.14789" />
     <path
        sodipodi:type="arc"
@@ -923,18 +900,18 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="572.51166"
-       y="333.92328"
+       x="544.37897"
+       y="324.09949"
        id="label-station-dagobah"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835-59-92"
-         x="572.51166"
-         y="333.92328"
+         x="544.37897"
+         y="324.09949"
          style="font-size:10px">Dagobah</tspan><tspan
          sodipodi:role="line"
-         x="572.51166"
-         y="346.42328"
+         x="544.37897"
+         y="336.59949"
          style="font-size:10px"
          id="tspan3209">Temple</tspan></text>
     <text
@@ -1100,30 +1077,6 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
          y="39.760353"
          style="font-size:10px"
          id="tspan5062">Outpost</tspan></text>
-    <rect
-       style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="marker-station-proving-grounds"
-       width="10"
-       height="10"
-       x="530.58301"
-       y="384.64789" />
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="485.45944"
-       y="387.22812"
-       id="label-station-proving-grounds"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3835-59-5-2"
-         x="485.45944"
-         y="387.22812"
-         style="font-size:10px">Proving</tspan><tspan
-         sodipodi:role="line"
-         x="485.45944"
-         y="399.72812"
-         style="font-size:10px"
-         id="tspan5202">Grounds</tspan></text>
     <rect
        style="fill:#00ff00;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="marker-station-tryon"
@@ -1994,7 +1947,7 @@ It connects to the Western Line at Epsilon, the Meridian Line at Alpha and Beta,
        y="0"
        xlink:href="#legend-marker-syco-mini"
        id="marker-mini-syco-dagobah"
-       transform="translate(705.69257,101.11627)"
+       transform="translate(677.55986,91.292466)"
        width="894.50568"
        height="743.98712"
        inkscape:label="#marker-mini-syco-dagobah" />
